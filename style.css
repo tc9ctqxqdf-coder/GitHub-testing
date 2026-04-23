@@ -2,7 +2,15 @@ body {
     font-family: Arial;
     background-color: #f4f4f4;
     margin: 0;
+   
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIBQxwlVL8bhmtpovYL2BgJ1i3SdvQPLnMA&s');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-attachment: fixed; 
 }
+
+
 
 .container {
     width: 80%;
@@ -15,6 +23,7 @@ h1 {
 }
 
 .box {
+    
     background-color: white;
     padding: 20px;
     margin: 20px 0;
